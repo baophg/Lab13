@@ -1,0 +1,25 @@
+.bg-img1 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url(https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg);
+}
+
+.bg-img2 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url(https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg);
+}
+
+.bg-img3 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url(https://assets.imgix.net/hp/snowshoe.jpg?w=1000);
+}
+.carousel-item {
+    min-height: 800px; 
+}
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+}
