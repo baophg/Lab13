@@ -1,0 +1,7 @@
+@media (max-width: 768px) {
+    .Experiences-grid-layout {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr); /* Three columns */
+        gap: 20px; /* Spacing between grid items */
+    }
+}
